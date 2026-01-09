@@ -1,0 +1,50 @@
+2026-01-08 19:56:00.325 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Java Learning\SeleniumWebDriver\OpenCartV121\grid-docker.xml"
+2026-01-08 19:56:00.691 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Java Learning\SeleniumWebDriver\OpenCartV121\grid-docker.xml
+
+2026-01-08 20:07:18.769 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Java Learning\SeleniumWebDriver\OpenCartV121\grid-docker.xml"
+2026-01-08 20:07:19.072 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Java Learning\SeleniumWebDriver\OpenCartV121\grid-docker.xml
+
+2026-01-09 15:31:13.997 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Java Learning\SeleniumWebDriver\OpenCartV121\crossbrowsertesting.xml"
+2026-01-09 15:31:14.671 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Java Learning\SeleniumWebDriver\OpenCartV121\crossbrowsertesting.xml
+
+2026-01-09 15:31:23.762 [TestNG-tests-1] INFO  testCase.TC001_AccountRegistrationTest - ****  Starting TC001_AccountRegistrationTest  ****
+2026-01-09 15:31:23.762 [TestNG-tests-2] INFO  testCase.TC001_AccountRegistrationTest - ****  Starting TC001_AccountRegistrationTest  ****
+2026-01-09 15:31:24.109 [TestNG-tests-2] INFO  testCase.TC001_AccountRegistrationTest - Clicked on my account
+2026-01-09 15:31:24.235 [TestNG-tests-1] INFO  testCase.TC001_AccountRegistrationTest - Clicked on my account
+2026-01-09 15:31:24.296 [TestNG-tests-2] ERROR testCase.TC001_AccountRegistrationTest - Exception occured =element not interactable
+  (Session info: chrome=143.0.7499.170)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2dd0f7231c703f8276ace4fba1771c9c, clickElement {id=f.C4A4B548C3D762F13BD8C6F9A527C37A.d.663BC989B331C0B1CD9FE2F34CCEF65A.e.87}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\shiva\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50139}, goog:processID: 18240, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50139/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (2dd0f7231c703f8276ace4fba1771c9c)] -> xpath: //a[normalize-space()='Register']]
+Session ID: 2dd0f7231c703f8276ace4fba1771c9c
+2026-01-09 15:31:24.332 [TestNG-tests-1] ERROR testCase.TC001_AccountRegistrationTest - Exception occured =element not interactable
+  (Session info: chrome=143.0.7499.170)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2dd0f7231c703f8276ace4fba1771c9c, clickElement {id=f.C4A4B548C3D762F13BD8C6F9A527C37A.d.663BC989B331C0B1CD9FE2F34CCEF65A.e.87}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\shiva\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50139}, goog:processID: 18240, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50139/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (2dd0f7231c703f8276ace4fba1771c9c)] -> xpath: //a[normalize-space()='Register']]
+Session ID: 2dd0f7231c703f8276ace4fba1771c9c
+2026-01-09 15:31:31.763 [TestNG-tests-3] INFO  testCase.TC001_AccountRegistrationTest - ****  Starting TC001_AccountRegistrationTest  ****
+2026-01-09 15:31:32.047 [TestNG-tests-3] INFO  testCase.TC001_AccountRegistrationTest - Clicked on my account
+2026-01-09 15:31:32.965 [TestNG-tests-3] INFO  testCase.TC001_AccountRegistrationTest - Clicked on Registration page
+2026-01-09 15:31:34.567 [TestNG-tests-3] INFO  testCase.TC001_AccountRegistrationTest - Validating confirmation message
+2026-01-09 15:31:34.567 [TestNG-tests-3] INFO  testCase.TC001_AccountRegistrationTest - ****  Finished TC001_AccountRegistrationTest  ****
+2026-01-09 15:34:20.646 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Java Learning\SeleniumWebDriver\OpenCartV121\master.xml"
+2026-01-09 15:34:21.039 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Java Learning\SeleniumWebDriver\OpenCartV121\master.xml
+
+2026-01-09 15:34:26.752 [main] INFO  testCase.TC001_AccountRegistrationTest - ****  Starting TC001_AccountRegistrationTest  ****
+2026-01-09 15:34:27.006 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on my account
+2026-01-09 15:34:28.677 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on Registration page
+2026-01-09 15:34:30.888 [main] INFO  testCase.TC001_AccountRegistrationTest - Validating confirmation message
+2026-01-09 15:34:30.888 [main] INFO  testCase.TC001_AccountRegistrationTest - ****  Finished TC001_AccountRegistrationTest  ****
+2026-01-09 15:34:34.481 [main] INFO  testCase.TC002_AccountLoginTest - ****  Starting TC002_AccountLoginTest  ****
+2026-01-09 15:34:36.584 [main] INFO  testCase.TC002_AccountLoginTest - ****  Finished TC002_AccountLoginTest  ****

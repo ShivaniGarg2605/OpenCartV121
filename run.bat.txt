@@ -1,0 +1,2 @@
+cd D:\Java Learning\SeleniumWebDriver\OpenCartV121
+mvn test
